@@ -1,0 +1,45 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 268" class="design-iconfont">
+  <g filter="url(#9nfgzuer7__filter0_b_152_5900)">
+    <path d="M13 15C13 13.8954 13.8954 13 15 13H417C418.105 13 419 13.8954 419 15V253C419 254.105 418.105 255 417 255H15C13.8954 255 13 254.105 13 253V15Z" fill="#0B51CC" fill-opacity=".1"/>
+    <path d="M15 14H417C417.552 14 418 14.4477 418 15V253C418 253.552 417.552 254 417 254H15C14.4477 254 14 253.552 14 253V15C14 14.4477 14.4477 14 15 14Z" stroke="url(#9nfgzuer7__paint0_diamond_152_5900)" stroke-width="2"/>
+  </g>
+  <path d="M49 1H1V49" stroke="url(#9nfgzuer7__paint1_linear_152_5900)" stroke-width="1.5"/>
+  <path d="M383 1H431V49" stroke="url(#9nfgzuer7__paint2_linear_152_5900)" stroke-width="1.5"/>
+  <path d="M49 267H1V219" stroke="url(#9nfgzuer7__paint3_linear_152_5900)" stroke-width="1.5"/>
+  <path d="M383 267H431V219" stroke="url(#9nfgzuer7__paint4_linear_152_5900)" stroke-width="1.5"/>
+  <path d="M33 71H399" stroke="url(#9nfgzuer7__paint5_linear_152_5900)" stroke-width="1.5"/>
+  <defs>
+    <linearGradient id="9nfgzuer7__paint1_linear_152_5900" x1="1" y1="1" x2="25" y2="25" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64BAE3"/>
+      <stop offset="1" stop-color="#64BAE3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="9nfgzuer7__paint2_linear_152_5900" x1="431" y1="1" x2="407" y2="25" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64BAE3"/>
+      <stop offset="1" stop-color="#64BAE3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="9nfgzuer7__paint3_linear_152_5900" x1="1" y1="267" x2="25" y2="243" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64BAE3"/>
+      <stop offset="1" stop-color="#64BAE3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="9nfgzuer7__paint4_linear_152_5900" x1="431" y1="267" x2="407" y2="243" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64BAE3"/>
+      <stop offset="1" stop-color="#64BAE3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="9nfgzuer7__paint5_linear_152_5900" x1="33.5579" y1="71" x2="399.558" y2="71" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64BAE3" stop-opacity="0"/>
+      <stop stop-color="#64BAE3" stop-opacity="0"/>
+      <stop offset=".489583" stop-color="#64BAE3"/>
+      <stop offset="1" stop-color="#64BAE3" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="9nfgzuer7__paint0_diamond_152_5900" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(92.47795 164.81938 -261.93401 146.96767 216 134)">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="9nfgzuer7__filter0_b_152_5900" x="-47" y="-47" width="526" height="362" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="30"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_152_5900"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_152_5900" result="shape"/>
+    </filter>
+  </defs>
+</svg>

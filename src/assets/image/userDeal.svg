@@ -1,0 +1,14 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="design-iconfont">
+  <g clip-path="url(#sbtwjjtsb__clip0_212_1450)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 4.5C2 3.11929 3.11929 2 4.5 2H19.5C20.8807 2 22 3.1193 22 4.5V19.5C22 20.8807 20.8807 22 19.5 22H4.5C3.1193 22 2 20.8807 2 19.5V4.5ZM7 6.5C6.44772 6.5 6 6.94772 6 7.5C6 8.05228 6.44772 8.5 7 8.5H17C17.5523 8.5 18 8.05228 18 7.5C18 6.94772 17.5523 6.5 17 6.5H7ZM17.7809 13.1247C18.1259 12.6935 18.056 12.0642 17.6247 11.7192C17.1935 11.3742 16.5642 11.4441 16.2192 11.8753L12.8439 16.0945L11.1247 14.7192C10.6935 14.3742 10.0642 14.4441 9.71917 14.8753C9.37416 15.3066 9.44408 15.9359 9.87534 16.2809L12.3753 18.2809C12.8066 18.6259 13.4359 18.556 13.7809 18.1247L17.7809 13.1247ZM6 11.5C6 10.9477 6.44772 10.5 7 10.5H11C11.5523 10.5 12 10.9477 12 11.5C12 12.0523 11.5523 12.5 11 12.5H7C6.44772 12.5 6 12.0523 6 11.5Z" fill="url(#sbtwjjtsb__paint0_linear_212_1450)"/>
+  </g>
+  <defs>
+    <linearGradient id="sbtwjjtsb__paint0_linear_212_1450" x1="12" y1="2" x2="12" y2="22" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5AFB9B"/>
+      <stop offset="1" stop-color="#5ADEFB"/>
+    </linearGradient>
+    <clipPath id="sbtwjjtsb__clip0_212_1450">
+      <path fill="#fff" d="M0 0H24V24H0z"/>
+    </clipPath>
+  </defs>
+</svg>
